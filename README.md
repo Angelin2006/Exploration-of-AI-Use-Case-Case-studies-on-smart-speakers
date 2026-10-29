@@ -20,10 +20,10 @@ The speaker gives the response to the user.
 <img width="806" height="852" alt="image" src="https://github.com/user-attachments/assets/eb98ba68-866b-4c98-8831-cb7613ca9fae" />
 
 # AI-ENABLED SMART SPEAKERS
-Amazon Echo – Alexa
-Google Nest – Google Assistant
-Apple HomePod – Siri
-Samsung SmartThings-compatible speakers
+1. Amazon Echo – Alexa
+2. Google Nest – Google Assistant
+3. Apple HomePod – Siri
+4. Samsung SmartThings-compatible speakers
 
 # RESULT
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in everyday life. By combining speech recognition, NLP, machine learning, and text-tospeech technologies, smart speakers can understand voice commands and provide intelligent responses. They improve convenience, accessibility, and automation in homes and other environments.
