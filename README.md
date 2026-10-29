@@ -5,7 +5,6 @@ To study the application of Artificial Intelligence in smart speakers and unders
 Autonomous driving relies on a continuous loop of perception, planning, and control powered by advanced AI subfields: • Perception (Sensor Fusion & CNNs): Convolutional Neural Networks (CNNs) process visual feeds from cameras to identify lanes, traffic lights, and obstacles. Sensor Fusion algorithms blend this visual data with distance inputs from Radar and LiDAR to construct a dynamic, 360-degree 3D map of the vehicle's surroundings. • Planning (RNNs & Transformers): Recurrent Neural Networks (RNNs) and transformer models evaluate the state of the environment over time. They predict the future trajectories of surrounding pedestrians and vehicles, allowing the system to plot the safest path forward. • Control (Deep Reinforcement Learning): DRL models translate the planned path into physical actions, dynamically managing steering angles, acceleration, and braking based on real-time environmental feedback.
 # WORKING PRINCIPLE 
 The basic working process of an AI-enabled smart speaker is: User Voice → Microphone → Speech Recognition → NLP → Intent Detection → AI Processing → Response Generation → Speaker Output
-
 The user gives a voice command.
 The microphone captures the user's speech.
 Speech Recognition converts speech into text.
@@ -15,7 +14,8 @@ The system retrieves information or performs the requested action.
 A response is generated.
 Text-to-Speech (TTS) converts the response into voice.
 The speaker gives the response to the user.
-#SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
+
+# SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
 <img width="705" height="258" alt="image" src="https://github.com/user-attachments/assets/bc78f798-04e7-4fa3-aa9e-4f487a700566" />
 <img width="806" height="852" alt="image" src="https://github.com/user-attachments/assets/eb98ba68-866b-4c98-8831-cb7613ca9fae" />
 #AI-ENABLED SMART SPEAKERS
