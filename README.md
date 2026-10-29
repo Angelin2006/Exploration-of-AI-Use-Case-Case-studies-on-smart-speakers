@@ -18,7 +18,7 @@ The speaker gives the response to the user.
 # SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
 <img width="705" height="258" alt="image" src="https://github.com/user-attachments/assets/bc78f798-04e7-4fa3-aa9e-4f487a700566" />
 <img width="806" height="852" alt="image" src="https://github.com/user-attachments/assets/eb98ba68-866b-4c98-8831-cb7613ca9fae" />
-#AI-ENABLED SMART SPEAKERS
+# AI-ENABLED SMART SPEAKERS
 Amazon Echo – Alexa
 Google Nest – Google Assistant
 Apple HomePod – Siri
