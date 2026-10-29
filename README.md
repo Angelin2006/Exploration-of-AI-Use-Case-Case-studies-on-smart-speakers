@@ -15,5 +15,13 @@ The system retrieves information or performs the requested action.
 A response is generated.
 Text-to-Speech (TTS) converts the response into voice.
 The speaker gives the response to the user.
+#SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
+<img width="705" height="258" alt="image" src="https://github.com/user-attachments/assets/bc78f798-04e7-4fa3-aa9e-4f487a700566" />
+<img width="806" height="852" alt="image" src="https://github.com/user-attachments/assets/eb98ba68-866b-4c98-8831-cb7613ca9fae" />
+#AI-ENABLED SMART SPEAKERS
+Amazon Echo – Alexa
+Google Nest – Google Assistant
+Apple HomePod – Siri
+Samsung SmartThings-compatible speakers
 # RESULT
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in everyday life. By combining speech recognition, NLP, machine learning, and text-tospeech technologies, smart speakers can understand voice commands and provide intelligent responses. They improve convenience, accessibility, and automation in homes and other environments.
